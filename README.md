@@ -11,7 +11,11 @@ This Data Analysis project aims to Clean and prepare a dataset on global layoffs
  - <b> Columns </b>: 9
  - <b> Rows </b>: 2362 rows
  - The Source of the original data is layoffs.fyi. ([Source](https://layoffs.fyi/))
-   
+
+### Tools & Techniques:
+
+- <b> SQL </b> : In college, I worked on PostgreSQL projects, but for this project, I used MySQL.
+- <b> Data Cleaning Standards </b>: Applying industry-standard data cleaning techniques to ensure optimal data quality.
 
 <b><h3>  1. Data Backup: </h3>
 
