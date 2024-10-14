@@ -1,4 +1,6 @@
 # Data_Cleaning_SQL_Project
+<img src="https://github.com/user-attachments/assets/aa4637cb-4ea9-44ad-ad92-c451800da216" alt="image" width="200" height="200">
+
 
 ## Project Overview 
 This Data Analysis project aims to Clean and prepare a dataset on global layoffs to ensure its accuracy and reliability for subsequent analysis. Finding missing data and outliers and then deleting nulls and white spaces. Standardizing data and adopting efficient cleaning procedures, I wish to compile this data to further study layoffs worldwide and demonstrate how SQL can be used for data cleaning.  
